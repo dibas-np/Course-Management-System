@@ -1,5 +1,5 @@
 # Course-Management-System
-It is the object oriented Java console base system which have three users with mySQL as database.
+It is the object oriented, Java, console base system which have three users which is integrated with mySQL as database.
 
 ## Student - Can choose course, and enroll on the specific course. They can also see the list of instructors and modules they are studying.
 
